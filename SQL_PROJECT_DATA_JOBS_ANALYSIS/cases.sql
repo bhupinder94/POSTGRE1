@@ -1,3 +1,4 @@
+-- Cases practice queries
 create table january_jobs as
    select * from job_postings_fact
    where extract(month from job_posted_date) = 1;
@@ -47,4 +48,5 @@ group by location_category;
     - jobs in 'New York' as 'NYC'
     - otherwise onsite
     */
+
 
