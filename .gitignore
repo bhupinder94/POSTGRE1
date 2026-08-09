@@ -2,5 +2,6 @@
 sql_files.csv/all_folders/
 SQL_PROJECT_DATA_JOBS_ANALYSIS/postgres.session.sql
 SQL_PROJECT_DATA_JOBS_ANALYSIS/sql_course.session.sql
+.kilo/
 .DS_Store
 Thumbs.db
